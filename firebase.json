@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "views",
+    "site": "final-crud-caf35",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
